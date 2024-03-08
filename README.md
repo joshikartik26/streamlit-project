@@ -18,3 +18,6 @@ Welcome to the Streamlit Indian Startup Funding Data Visualization project! This
   <li>Contact</li>
 </ul>
 
+<h1>Project Overview</h1>
+The Streamlit Indian Startup Funding Data Visualization project is a personal project developed to analyze and visualize the Indian startup funding dataset. It provides a web-based interface built with Streamlit, allowing users to explore the dataset and gain insights through interactive plots and metrics. The project utilizes Pandas and Plotly libraries for data manipulation and visualization, respectively.
+
