@@ -92,21 +92,3 @@ The Overall Analysis section provides an overview of the startup funding ecosyst
     <li>6.Gain insights and explore the interactive visualizations to understand the Indian startup funding landscape.</li>
 
     </ul>
-    
-    To run the project locally, follow the steps below:
-
-Clone the GitHub repository:
-
-git clone https://github.com/1abhi6/Streamlit-Indian-Startup-Funding.git
-Navigate to the project directory:
-
-cd Streamlit-Indian-Startup-Funding
-Install the required dependencies using pip:
-
-pip install -r requirements.txt
-Run the Streamlit app:
-
-streamlit run app.py
-The app should now be running locally. Open your web browser and access the following URL:
-
-http://localhost:8501
