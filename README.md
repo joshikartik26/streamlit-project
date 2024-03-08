@@ -29,3 +29,18 @@ The main objectives of this project are:
 <li>3.Provide insights into individual investors based on user selection.</li>
 </ul>
 
+<h1>Installation</h1>
+To run the project locally, follow the steps below:
+<ul>
+  <li>Clone the GitHub repository:</li>
+</ul>
+
+import streamlit as st
+def main():
+    st.title("Copy Paste in streamlit")
+    pathinput = st.text_input("Enter your Path:")
+    #you can place your path instead
+    Path = f'''{pathinput}'''
+    st.code(Path, language="python")
+    st.markdown("Now you get option to copy")
+if __name__ == "__main__":main()
