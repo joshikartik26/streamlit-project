@@ -50,14 +50,21 @@ The website consists of three main sections: Overall Analysis, Startup Analysis,
 <h3>Section 1: Overall Analysis</h3>
 The Overall Analysis section provides an overview of the startup funding ecosystem in India. It includes the following components:
 <ul>
-  <l1>Month by Month Analysis: This component displays key metrics such as total investments made so far, maximum investment, average investment, and total funded startups.</l1>
-  <l1>Month-on-Month Line Graphs: This component presents line graphs for the total amount of funding and total funded startups month-on-month.</l1>
-  <l1>Total Funded Indian Startups: This line graph illustrates the total number of funded Indian startups month-on-month.</l1>
-  <l1>Top 10 Most Funded Sectors: This horizontal bar graph shows the top 10 sectors with the highest funding amounts between 2015 and 2020.</l1>
-  <l1>Top Investors: This horizontal bar graph showcases the top investors based ontheir investment values.</l1>
-  <l1>Top 10 Most Funded Startups: This 3D bar graph represents the top 10 most funded startups in startup funding year-on-year.</l1>
-  <l1>Top 10 Most Funded Cities: This horizontal bar graph displays the top 10 cities with the most startup funding.</l1>
-  <l1>Top 10 Most Funded Round Types: This horizontal bar graph presents the top 10 round types in startup funding.</l1>
+  <li>Month by Month Analysis: This component displays key metrics such as total investments made so far, maximum investment, average investment, and total funded startups.</li>
+  <li>Month-on-Month Line Graphs: This component presents line graphs for the total amount of funding and total funded startups month-on-month.</li>
+  <li>Total Funded Indian Startups: This line graph illustrates the total number of funded Indian startups month-on-month.</li>
+  <li>Top 10 Most Funded Sectors: This horizontal bar graph shows the top 10 sectors with the highest funding amounts between 2015 and 2020.</li>
+  <li>Top Investors: This horizontal bar graph showcases the top investors based ontheir investment values.</li>
+  <li>Top 10 Most Funded Startups: This 3D bar graph represents the top 10 most funded startups in startup funding year-on-year.</li>
+  <li>Top 10 Most Funded Cities: This horizontal bar graph displays the top 10 cities with the most startup funding.</li>
+  <li>Top 10 Most Funded Round Types: This horizontal bar graph presents the top 10 round types in startup funding.</li>
   <li>Heatmap: This heatmap visualizes the funding amount by year and month.</li>
+  </ul>
+  
+  <h3>Section 2: Startup Analysis</h3>
+  The Startup Analysis section allows users to select a specific startup from a dropdown menu and provides detailed insights about that startup. The section includes:
+  <ul>
+    <li>Selected Startup Information: This component displays various metrics for the selected startup, including total investments, sector, subsector, funding stage, and investors.</li>
+    <li>Similar Startups: This section presents a list of similar startups that belong to the same sector as the selected startup.</li>
   </ul>
 
