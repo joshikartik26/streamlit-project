@@ -91,3 +91,7 @@ The Overall Analysis section provides an overview of the startup funding ecosyst
     <li>5.To select a specific startup or investor for analysis, use the dropdown menus provided.</li>
     <li>6.Gain insights and explore the interactive visualizations to understand the Indian startup funding landscape.</li>
     </ul>
+
+    <h3>Contact</h3>
+    For any questions or inquiries, feel free to reach out to me at:
+    <ul><li>Website: Kartik Joshi</li></ul>
