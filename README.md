@@ -23,7 +23,9 @@ The Streamlit Indian Startup Funding Data Visualization project is a personal pr
 
 The main objectives of this project are:
 
-1.Perform an overall analysis of the startup funding ecosystem in India.
-2.Enable analysis of individual startups based on user selection.
-3.Provide insights into individual investors based on user selection.
+<ul>
+<li>1.Perform an overall analysis of the startup funding ecosystem in India.</li>
+<li>2.Enable analysis of individual startups based on user selection.</li>
+<li>3.Provide insights into individual investors based on user selection.</li>
+</ul>
 
