@@ -4,6 +4,17 @@ Welcome to the Streamlit Indian Startup Funding Data Visualization project! This
 
 <H1>Table of Contents</H1>
 <ul>
-  <li>asdsdsdsasds</li>
+  <li>Project Overview</li>
+  <li>Installation</li>
+  <li>Dataset</li>
+  <li>Website Structure</li>
+  <ul><li>Section 1: Overall Analysis</li>
+    <li>Section 2: Startup Analysis</li>
+    <li>Section 3: Investor Analysis</li>
+  </ul>
+  <li>How to Use</li>
+  <li>Contributing</li>
+  <li>License</li>
+  <li>Contact</li>
 </ul>
 
