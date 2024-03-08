@@ -33,7 +33,6 @@ The main objectives of this project are:
 To run the project locally, follow the steps below:
 <ul>
   <li>1.Clone the GitHub repository:</li>
-  <li>git clone https://github.com/1abhi6/Streamlit-Indian-Startup-Funding.git</li>
   <l1>2.Navigate to the project directory:</l1>
   <li>3.cd Streamlit-Indian-Startup-Funding</li>
 </ul>
