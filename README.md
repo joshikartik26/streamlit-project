@@ -38,3 +38,26 @@ To run the project locally, follow the steps below:
   <li>4.Run the Streamlit app:</li>
   <li>5.The app should now be running locally. Open your web browser and access the following URL:</li>
 </ul>
+
+<h1>Dataset</h1>
+The dataset used in this project is sourced from Kaggle and is provided by Sudalai Rajkumar. The dataset contains information about Indian startup funding, including details about the startups, investors, funding amounts, sectors, and more. You can find the dataset at the following Kaggle link: Indian Startup Funding Dataset
+
+Ensure that you download the dataset and place it in the appropriate directory within the project structure.
+
+<h1>Website Structure</h1>
+The website consists of three main sections: Overall Analysis, Startup Analysis, and Investor Analysis. Each section offers different visualizations and insights based on the selected data.
+
+<h3>Section 1: Overall Analysis</h3>
+The Overall Analysis section provides an overview of the startup funding ecosystem in India. It includes the following components:
+<ul>
+  <l1>Month by Month Analysis: This component displays key metrics such as total investments made so far, maximum investment, average investment, and total funded startups.</l1>
+  <l1>Month-on-Month Line Graphs: This component presents line graphs for the total amount of funding and total funded startups month-on-month.</l1>
+  <l1>Total Funded Indian Startups: This line graph illustrates the total number of funded Indian startups month-on-month.</l1>
+  <l1>Top 10 Most Funded Sectors: This horizontal bar graph shows the top 10 sectors with the highest funding amounts between 2015 and 2020.</l1>
+  <l1>Top Investors: This horizontal bar graph showcases the top investors based ontheir investment values.</l1>
+  <l1>Top 10 Most Funded Startups: This 3D bar graph represents the top 10 most funded startups in startup funding year-on-year.</l1>
+  <l1>Top 10 Most Funded Cities: This horizontal bar graph displays the top 10 cities with the most startup funding.</l1>
+  <l1>Top 10 Most Funded Round Types: This horizontal bar graph presents the top 10 round types in startup funding.</l1>
+  <li>Heatmap: This heatmap visualizes the funding amount by year and month.</li>
+  </ul>
+
