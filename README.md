@@ -68,3 +68,32 @@ The Overall Analysis section provides an overview of the startup funding ecosyst
     <li>Similar Startups: This section presents a list of similar startups that belong to the same sector as the selected startup.</li>
   </ul>
 
+  <h3>Section 3: Investor Analysis</h3>
+  The Investor Analysis section enables users to select a specific investor from a dropdown menu and explore their investment activities. The section includes:
+  <ul>
+    <li>Selected Investor Information: This component provides information about the selected investor and their recent investments, including the date of investment, startup name, vertical, city, and other investors involved.</li>
+    <li>Biggest Investments: This bar chart showcases the biggest investments made by the selected investor in terms of amount.</li>
+    <li>Most Invested City: This pie chart illustrates the most invested city by the selected investor in terms of amount.</li>
+    <li>Most Invested Sector: This pie chart presents the most invested sector by the selected investor in terms of amount.</li>
+    <li>Most Invested Subsector: This pie chart displays the most invested subsector by the selected investor in terms of amount.</li>
+    <li>Most Invested Investment Type: This pie chart represents the most invested investment type by the selected investor in terms of amount.</li>
+    <li>YoY Investment: This line graph shows the year-on-year investment trend of the selected investor in terms of amount.</li>
+    <li>Investors in Similar Sectors: This component lists four investors who have invested in the same sectors as the selected investor.</li>
+    
+  </ul>
+  
+  <h3>How to Use</h3>
+  <ul>
+    <li>1.Launch the Streamlit app by following the installation instructions mentioned earlier.</li>
+    <li>2.Once the app is running, access the provided URL in your web browser.</li>
+    <li>3.The website will load, displaying the Overall Analysis section by default.</li>
+    <li>4.Explore the different components and visualizations within each section.</li>
+    <li>5.To select a specific startup or investor for analysis, use the dropdown menus provided.</li>
+    <li>6.Gain insights and explore the interactive visualizations to understand the Indian startup funding landscape.</li>
+
+    </ul>
+    
+    <h3>Contact</h3>
+    For any questions or inquiries, feel free to reach out to me at:
+    <ul><li>Website: Kartik Joshi</li></ul>
+
