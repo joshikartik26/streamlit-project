@@ -34,5 +34,7 @@ To run the project locally, follow the steps below:
 <ul>
   <li>1.Clone the GitHub repository:</li>
   <l1>2.Navigate to the project directory:</l1>
-  <li>3.cd Streamlit-Indian-Startup-Funding</li>
+  <li>3.Install the required dependencies using pip:</li>
+  <li>4.Run the Streamlit app:</li>
+  <li>5.The app should now be running locally. Open your web browser and access the following URL:</li>
 </ul>
